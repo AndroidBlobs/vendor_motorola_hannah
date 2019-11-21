@@ -1,0 +1,4 @@
+on post-fs-data
+    mkdir /data/Amazon\ Video/ 0755 system system
+    mkdir /data/Amazon\ Video/raw/ 0755 system system
+    symlink /oem/usc/amzn.mshop.properties data/Amazon\ Video/raw/amzn.mshop.properties

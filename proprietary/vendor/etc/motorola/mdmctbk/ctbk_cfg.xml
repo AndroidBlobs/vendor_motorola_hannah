@@ -1,0 +1,23 @@
+<xml>
+    <ctbk_version>14</ctbk_version>
+    <wifi_tx_pwr>
+        <Default_5GHZ   index="0">19</Default_5GHZ>
+        <State1_5GHZ    index="1">19</State1_5GHZ>
+        <State2_5GHZ    index="2">19</State2_5GHZ>
+        <Default_2GHZ   index="3">19</Default_2GHZ>
+        <State1_2GHZ    index="4">19</State1_2GHZ>
+        <State2_2GHZ    index="5">19</State2_2GHZ>
+        <State4_5GHZ    index="6">15</State4_5GHZ>
+        <State5_5GHZ    index="7">15</State5_5GHZ>
+        <State4_2GHZ    index="8">19</State4_2GHZ>
+        <State5_2GHZ    index="9">19</State5_2GHZ>
+    </wifi_tx_pwr>
+    <sar_sensors>
+        <sensor type="prox_front"           index="0">EPL259x ALS/PS PROX</sensor>
+        <sensor type="prox_back"            index="1">null</sensor>
+        <sensor type="cap_bottom_center"    index="2">capsense_bottom</sensor>
+        <sensor type="cap_bottom_right"     index="3">null</sensor>
+        <sensor type="cap_bottom_left"      index="4">null</sensor>
+        <sensor type="cap_top"              index="5">capsense_top</sensor>
+    </sar_sensors>
+</xml>
